@@ -1,0 +1,16 @@
+# Package management
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build output
+dist/
+build/
+
+# JSON files
+*.json
+
+# Other common ignores
+node_modules/
+coverage/
+.env
